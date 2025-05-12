@@ -6,7 +6,7 @@ Creator of most fast/zeroalloc json library for go: https://github.com/avpetkun/
 
 Main activity: development of crypto and web services in Golang. A lot of experience in creating web services from scratch, even created a custom development company with a friend.
 
-My main project stack: Golang (backend) + Vue (frontend) + Docker + Gitlab CI/CD.
+My main project stack: Golang (backend) + Vue2/Svelte (frontend) + Docker + Gitlab CI/CD.
 
 Have DevOps skills, experience in creating corporate infrastructure on cloud servers.
 
