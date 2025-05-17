@@ -15,4 +15,5 @@ Good teamwork skills, but can also complete any project alone.
 You can see some my projects in my profile on this page
 
 telegram: @avpetkun
+
 linkedin: https://www.linkedin.com/in/avpetkun/
